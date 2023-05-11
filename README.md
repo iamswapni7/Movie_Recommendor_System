@@ -9,7 +9,8 @@ In this project I have built a content based movie recommender system. The algor
 
 # Live Demo :
 
-https://github.com/iamswapni7/Movie_Recommendor_System/assets/125118561/d90b49d3-3f12-473d-8788-30f37f8a9d5c
+https://github.com/iamswapni7/Movie_Recommendor_System/assets/125118561/393f570c-21ad-4f39-add8-0a0d60977094
+
 
 # How it does :
 Content Based Filtering - They suggest similar items based on a particular item. This system uses item metadata, such as genre, director, description, actors, etc. for movies, to make these recommendations. The general idea behind these recommender systems is that if a person liked a particular item, he or she will also like an item that is similar to it.
